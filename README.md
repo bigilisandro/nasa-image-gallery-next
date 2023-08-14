@@ -33,6 +33,8 @@ To run program, run the following command.
 
 1. Open your browser on `http://localhost:3000` to see the page.
 
+2. In order the app to run correctly, you need to set up an environment variable key. To achieve this you need to add a .env.local file in the root folder with NEXT_PUBLIC_API_KEY=api_key and to obtain the API Key, you can get it from https://api.nasa.gov/
+
 
 ## 🔨 Running Test
 
