@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NASA-Image-Gallery-Next [#Demo](https://image-gallery-react-imgur.netlify.app/)
 
-## Getting Started
+## 📜 Description
 
-First, run the development server:
+This project is a Image Gallery that consumes images from NASA Open APIs and particularly from Mars Rover Photos and allows users to filter results in rover, camera, earth date and sol. The Gallery uses Next, TypeScript and React-Bootstrap as Frontend tools.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 🌐 Links
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* [Deployed] [ Image-Gallery-React-Imgur](https://image-gallery-react-imgur.netlify.app/)
+ 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 Tech Used
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [x] Next - React
+- [x] Tests: Jest + react-testing-library / enzyme
+- [x] Typescript
+- [x] React-Bootstrap
+ 
+ 
+# Pre-requisites
 
-## Learn More
+- Install [Node.js](https://nodejs.org/en/)
 
-To learn more about Next.js, take a look at the following resources:
+To run program, run the following command. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔨 Running Code (react)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To run program, run the following command. 
+ 
+1. Use the terminal to execute the following commands:
+    - `npm install` or `yarn install` to install the dependencies for react application
+    - `npm start` or `yarn start` to start the the application
 
-## Deploy on Vercel
+1. Open your browser on `http://localhost:3000` to see the page.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🔨 Running Test
+
+1. To run tests, run the following command.
+
+- `npm run test` or `yarn test` to run the tests.
+
