@@ -1,4 +1,4 @@
-# NASA-Image-Gallery-Next [#Demo](https://image-gallery-react-imgur.netlify.app/)
+# NASA-Image-Gallery-Next [#Demo](https://nasa-image-gallery-next.vercel.app/)
 
 ## 📜 Description
 
@@ -6,7 +6,7 @@ This project is a Image Gallery that consumes images from NASA Open APIs and par
 
 ## 🌐 Links
 
-* [Deployed] [ Image-Gallery-React-Imgur](https://image-gallery-react-imgur.netlify.app/)
+* [Deployed] [ NASA-Image-Gallery-Next](https://nasa-image-gallery-next.vercel.app/)
  
 
 ## 💻 Tech Used
